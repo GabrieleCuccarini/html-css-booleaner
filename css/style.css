@@ -1,0 +1,25 @@
+.sottotitolo{
+    color: rgb(212, 207, 207);
+}
+
+#booleaner{
+    color: rgb(0, 153, 255);
+}
+
+.photodescr{
+    font-size: 13px;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.tabella{
+    text-align: center;
+}
+
+header{
+    background-image: url(../img/logo.PNG);
+    background-color: aquamarine;
+  }
+  

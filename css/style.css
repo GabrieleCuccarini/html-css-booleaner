@@ -10,19 +10,15 @@ body {
 }
 
 .logo {
-    width: 250px;
-    margin-top: 50px;
-    margin-left: 0;
+    width: 20vh;
+    height: 5vh;
+    margin-top: 20vh;
 }
 
 header {
     background-image: url("../img/pattern.png");
     background-repeat: repeat-x;
     background-color: rgb(80, 150, 220);
-}
-
-.repeat {
-    background-size: cover;
 }
 
 /*Contenitore+loghi*/
